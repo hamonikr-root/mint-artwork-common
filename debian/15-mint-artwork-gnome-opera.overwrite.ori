@@ -1,0 +1,8 @@
+/usr/share/linuxmint/common/artwork/opera/search.ini /usr/share/opera/defaults/search.ini
+/usr/share/linuxmint/common/artwork/opera/search.ini /usr/share/opera/locale/*/search.ini
+/usr/share/linuxmint/common/artwork/opera/operaprefs_default.ini /etc/operaprefs_default.ini
+/usr/share/linuxmint/common/artwork/opera/operaprefs_fixed.ini /etc/operaprefs_fixed.ini
+/usr/share/linuxmint/common/artwork/opera/pluginpath.ini /usr/share/opera/defaults/pluginpath.ini
+/usr/share/linuxmint/common/artwork/opera/bookmarks.adr /usr/share/opera/defaults/bookmarks.adr
+/usr/share/linuxmint/common/artwork/opera/bookmarks.adr /usr/share/opera/locale/*/bookmarks.adr
+

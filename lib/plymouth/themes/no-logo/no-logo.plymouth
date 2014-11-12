@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=No Logo
+Description=A theme that features a blank background.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/no-logo
+ScriptFile=/lib/plymouth/themes/no-logo/no-logo.script

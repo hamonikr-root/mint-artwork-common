@@ -1,0 +1,15 @@
+Source: mint-artwork-common
+Section: admin
+Priority: optional
+Maintainer: Clement Lefebvre <clem@linuxmint.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: mint-artwork-common
+Depends: mintsystem
+Replaces: mint-artwork-gnome, mint-artwork-debian
+Conflicts: mint-artwork-debian
+Breaks: mint-configuration-kde (<= 5.0.20)
+Architecture: all
+Description: Common artwork for Linux Mint editions
+ Common artwork used in Linux Mint.
